@@ -12,5 +12,5 @@ void loop() {
   digitalWrite (LED_PIN, HIGH); //liga o LED
   delay (1000);  //espera 1 segundo (1000 milissegundos)
   digitalWrite (LED_PIN, LOW); //desliga o LED
-  delay (200);  //espera 1 segundo (1000 milissegundos)
+  delay (1000);  //espera 1 segundo (1000 milissegundos)
 }
