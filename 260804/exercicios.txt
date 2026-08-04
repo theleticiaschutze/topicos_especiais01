@@ -1,0 +1,23 @@
+--exercicio 05
+- Monte o circuito dado abaixo, e programe o Arduino para que quando a chave S1 seja pressionada, acione os LEDs em sequência e quando a chave S2 for pressionada acione os LEDs em sequência contrária.
+- Materiais necessários para montar o circuito:
+- 02 - Botão pulso
+- Resistor de 10k e 100R
+- 04 - LED colorido
+
+--exercicio 06
+- Altere o exercício anterior deixando-o com apenas um (01) botão de pulso e três (03) LEDs.
+- Faça agora um programa que simule um semáforo, onde o pedestre faz o acionamento do botão para passar na faixa de pedestre.
+- Quando o botão for pressionado o semáforo de acender a luz amarela por alguns milissegundos e em seguida permanecer com o LED vermelho aceso por alguns segundos. Após isso deve voltar a ficar verde.
+
+--exercicio 07
+Monte o circuito abaixo utilizando os materiais citados acima e programe o arduino para que a chave S1 acione o LED5 e a chave S2 acione o LED6.
+
+--exercicio 08
+Montar um circuito com 6 LED’s onde e duas chaves (S1 e S1):
+- Acione os LED’s 1 e 2 simultaneamente somente quando a ambas as chaves estiverem pressionadas;
+- Acione os LED’s 3 e 4 simultaneamente independente de qual chave for acionada;
+- Acione os LED’s 5 e 6 somente acendam se a chave S1 estiver pressionada e S2 estiver aberta.
+
+--exercicio 09
+Monte o circuito dado abaixo, e programe o Arduino para acender uma sequência de LEDs e o jogador deve repetir a sequência pressionando botões.
