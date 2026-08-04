@@ -2,15 +2,11 @@
 Hello world do arduino - ligamos o led e deixamos ele ligado por um segundo, e depois um segundo desligado
 
 -- Exercício 02
-Ligar e desligar um LED por um segundo.
-OBS: Conectar o LED a porta número 12 do Arduíno.
-Utilizando um resistor
+Ligar e desligar um LED por um segundo. OBS: Conectar o LED a porta número 12 do Arduíno. Utilizando um resistor
 
 
 -- Exercício 03
-Mantenha o LED ligado por 1 segundo e apagado por 3 segundos, isso durante três vezes.
-Em seguida pisque o LED (com intervalo de 0,2 segundos).
-Após repita todo o processo, até o Arduino ser desligado.
+Mantenha o LED ligado por 1 segundo e apagado por 3 segundos, isso durante três vezes. Em seguida pisque o LED (com intervalo de 0,2 segundos). Após repita todo o processo, até o Arduino ser desligado.
 
 -- Exercício 04
 Conectar 3 leds e fazer eles acenderem em sequencia
@@ -19,5 +15,12 @@ Conectar 3 leds e fazer eles acenderem em sequencia
 Conectar 3 leds e fazer eles acenderem em sequencia, e desligarem inversamente
 
 -- Exercício 05
-Os letreiros estilo "Las Vegas"tipicamente têm várias lâmpadas, sendo que somente uma acende de cada vez. Isso cria a ilusão de
-que um ponto luminoso está se deslocando ao redor do letreiro. Use 8 LEDs para criar um letreiro estilo "Las Vegas".
+Os letreiros estilo "Las Vegas"tipicamente têm várias lâmpadas, sendo que somente uma acende de cada vez. Isso cria a ilusão de que um ponto luminoso está se deslocando ao redor do letreiro. Use 8 LEDs para criar um letreiro estilo "Las Vegas".
+
+
+-- Exercício 06
+Faça com que os LEDs em AMBAS as pontas da sequência iniciem acesos. Então, avance as luzes, uma em direção da outra, dando a impressão de que estão se encontrando e retornando às pontas.
+
+
+-- Exercício 07
+Programe o Arduino para que os LED’s funcionem como umsemáforo. Sendo que deve inicialmente acender o LED verde,aguardar 3 segundos, após apagar o Verde imediatamente acendero LED Amarelo por 1 segundo e após isso acender o LED Vermelhopor 3 segundo, após o tempo, o processo deve ser reiniciado.
