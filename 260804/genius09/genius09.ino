@@ -21,15 +21,4 @@ void loop() {
     int ligaum = digitalRead(S1);
     int ligadois = digitalRead(S2);
 
-
-    
-    
-    if(ligaum == 0){
-      digitalWrite (led[0], HIGH); //liga o amarelo
-      delay (2000);  //espera  
-    }  
-    if(ligadois==1){
-      digitalWrite (led[1], HIGH); //liga o vermelho
-      delay (2000);  //espera 
-    }
   }
