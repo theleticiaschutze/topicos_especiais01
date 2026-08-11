@@ -1,0 +1,18 @@
+-- exercício 01
+Monte o circuito abaixo, e o programe para quando a luminosidade
+no sensor estiver abaixo de 50% o LED seja aceso, e se mantenha aceso até 
+a luminosidade voltar a ficar acima deste valor quando o LED deve permanecer 
+apagado. (Vamos simular o acendimento automático de uma lampada quando escurece.)
+
+Materiais necessários para montar o circuito:
+01 - Sensor LDR
+Resistor de 10k e 100R
+01 - LED colorido
+
+
+-- exercício 03
+Monte o circuito abaixo utilizando os materiais citados acima e
+programe o Arduino para que os LEDs acendam de maneira
+sequencial de acordo com a luminosidade incidente no LDR.
+(são 4 luzes de led e um sensor, aí fiz de acordo com as faixas 
+que aparecem no serial com o sensor que tinha)
