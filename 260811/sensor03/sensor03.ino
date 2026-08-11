@@ -29,7 +29,7 @@ void loop() {
   }
   
   if(sensor<600){
-    digitalWrite(led03, HIGH);
+    digitalWrite(led03, HIGH); 
   } else{
     digitalWrite(led03, LOW);
   }
