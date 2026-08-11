@@ -16,25 +16,25 @@ void loop() {
   sensor = analogRead(A5);
   Serial.println(sensor);
 
-  if(sensor<500){
+  if(sensor<1000){
     digitalWrite(led01, HIGH);
   } else{
     digitalWrite(led01, LOW);
   }
   
-  if(sensor<300){
+  if(sensor<800){
     digitalWrite(led02, HIGH);
   } else{
     digitalWrite(led02, LOW);
   }
   
-  if(sensor<200){
+  if(sensor<600){
     digitalWrite(led03, HIGH);
   } else{
     digitalWrite(led03, LOW);
   }
   
-  if(sensor<100){
+  if(sensor<500){
     digitalWrite(led04, HIGH);
   } else{
     digitalWrite(led04, LOW);
