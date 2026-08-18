@@ -1,0 +1,14 @@
+-- exercício 01
+Monte o circuito abaixo, e programe para que o LED varie o brilho de acordo com a mudança de estado do potenciômetro;
+
+--exercício 02
+Monte o circuito abaixo, e programe para que o LED varie o brilho de acordo com a mudança de estado do potenciômetro;
+Quando o push button for pressionado deve-se alterar o estado do LED seguinte, mantendo a configuração aplicada no LED anterior;
+
+-- exercício 03
+Monte o circuito abaixo, e o programe para quando a luminosidade for diminuindo o brilho do LED irá 
+aumentar até ficar totalmente aceso. OBS: o sensor LDR é um sensor de luminosidade.
+Materiais necessários para montar o circuito:
+Sensor LDR
+Resistor de 10k e 100R
+LED colorido
