@@ -1,0 +1,33 @@
+-- exercicio 00
+escrever olá mundo kkkk
+
+-- exercicio 01
+Monte o circuito abaixo, e programe para que seja exibido dois
+contadores na tela, um deles posicionado no canto superior
+esquerdo sendo que este irá contar de 0 até 200 e outro no canto
+inferior direito e este irá contar de 200 até 0;
+Obs: Torne possível visualizar a troca de valores.
+
+
+-- exercicio 02
+Monte o circuito abaixo, e programe para que na primeira linha do
+Display seja exibido o valor da entrada analógica (potenciômetro) e
+na segunda linha o valor convertido em tensão (0v-5v).
+
+
+-- exercicio 03
+Monte o circuito abaixo, e programe para que no Display seja exibido
+a tensão de entrada pelo potenciômetro. Quando essa tensão for
+maior que 2V acenda o LED amarelo seja exibida a mensagem de
+cuidado e caso a tensão seja maior que 5v acenda o LED vermelho e
+seja exibida a mensagem de perigo.
+
+
+-- exercicio 04
+Monte o circuito abaixo, e programe para que sorteie os 6 (seis)
+números da loteria toda vez que o botão for pressionado. Após os
+números sorteados deve aguardar que o botão seja novamente
+pressionado para executar um novo sorteio;
+OBS: Mostre os números sendo trocados rapidamente no visor
+enquanto são sorteados;
+OBS 2: Não devem haver números repetidos.
